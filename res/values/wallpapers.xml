@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2012 The Orca Project
+
+     Licensed under the GNU GPLv2 license
+
+     The text of the license can be found in the LICENSE file
+     or at https://www.gnu.org/licenses/gpl-2.0.txt
+-->
+
+<resources>
+    <string-array name="wallpapers" translatable="false">
+        <item>wallpaper_1</item>
+        <item>wallpaper_2</item>
+        <item>wallpaper_3</item>
+        <item>wallpaper_4</item>
+        <item>wallpaper_5</item>
+        <item>wallpaper_6</item>
+        <item>wallpaper_7</item>
+        <item>wallpaper_8</item>
+        <item>wallpaper_9</item>
+        <item>wallpaper_10</item>
+        <item>wallpaper_11</item>
+        <item>wallpaper_12</item>
+        <item>wallpaper_13</item>
+        <item>wallpaper_14</item>
+    </string-array>
+
+    <string-array name="info" translatable="false">
+        <item>Flower</item>
+        <item>Hex</item>
+        <item>Neon Twirl</item>
+        <item>Colors</item>
+        <item>Color Zag</item>
+        <item>Vertigo Colors</item>
+        <item>Lines</item>
+        <item>Buttaflies</item>
+        <item>Stones</item>
+        <item>Bora Bora</item>
+        <item>Farm</item>
+        <item>City Limits</item>
+        <item>Crazy Boxes</item>
+        <item>Almighty ORCA</item>
+    </string-array>
+</resources>
